@@ -1,0 +1,18 @@
+.arrow-left{
+    position: absolute;
+    left: 5%;
+    top: 45%;
+    transform: translate(5%, 45%);
+    z-index: 6;
+    font-size: 1rem;
+    color: white;
+}
+.arrow-right{
+    position: absolute;
+    right: 5%;
+    top: 45%;
+    z-index: 6;
+    font-size: 1rem;
+    color: white;
+    transform: translate(5%, 45%);
+}
